@@ -21,19 +21,19 @@ that is facing  an employee attrition problem.
 
     2.Predict which employee is likely to leave the company.
     
-## Processes
+## Solution Steps
 
    1. Data gathering
 
-   2.Data importation
+   2. Data importation
 
-   3.Data Wrangling
+   3. Data Wrangling
 
-   4.Feature Engineering
+   4. Feature Engineering
 
-   5.Descritive and prescriptive Analysis (Exploratory Data Analysis)
+   5. Descritive and prescriptive Analysis (Exploratory Data Analysis)
 
-   6.Machine learning Model implementation
+   6. Machine learning Model implementation
 
 
 
